@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+##了解了mongodb mongoose node node-router的使用
+
+
 ## Build Setup
 
 ``` bash
